@@ -1,0 +1,23 @@
+{
+    "snake" : {
+        "snake_color" : "white",
+        "snake_speed" : 15
+    },
+
+    "font_size_lost" : 60,
+
+    "window" : {
+        "window_X" : 720,
+        "window_Y" : 480
+    },
+
+    "score" : 0,
+    "__comment" : "blue & red & green & black & white ",
+    "score_title_color" : "white",
+    "score_level_up" : 10,
+
+    "backGround_color" : "black",
+
+    "Time_Sleep" : 2
+
+}
